@@ -7,7 +7,12 @@ contributor:
     deathdate: 1952
     gutenberg_agent_id: '43683'
     url: http://www.gutenberg.org/2009/agents/43683
+covers:
+- cover_type: archival
+  image_path: 54838-h/images/inside-cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54838#De-aeroplaan-van-m-nheer-Vliegenthert
 gutenberg_issued: '2017-06-03'
 gutenberg_type: Text
 identifiers:
